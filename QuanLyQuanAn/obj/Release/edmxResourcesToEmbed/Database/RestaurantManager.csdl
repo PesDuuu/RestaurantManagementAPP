@@ -1,0 +1,517 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="RestaurantManager" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Account">
+    <Key>
+      <PropertyRef Name="userName" />
+    </Key>
+    <Property Name="userName" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="passWord" Type="String" MaxLength="1000" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="displayName" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="typeAccount" Type="Int32" Nullable="false" />
+    <Property Name="idStaff" Type="String" MaxLength="5" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="Staff" Relationship="Self.FK__Account__idStaff__30F848ED" FromRole="Account" ToRole="Staff" />
+    <NavigationProperty Name="Bills" Relationship="Self.FK__Bill__payerId__4316F928" FromRole="Account" ToRole="Bill" />
+    <NavigationProperty Name="BillOfWareHouses" Relationship="RestaurantManager.FK__BillOfWar__userN__17036CC0" FromRole="Account" ToRole="BillOfWareHouse" />
+  </EntityType>
+  <EntityType Name="AttendanceList">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="idStaff" Type="String" MaxLength="5" FixedLength="false" Unicode="false" />
+    <Property Name="dateCheckIn" Type="DateTime" Nullable="false" Precision="3" />
+    <NavigationProperty Name="Staff" Relationship="Self.FK__Attendanc__idSta__5812160E" FromRole="AttendanceList" ToRole="Staff" />
+  </EntityType>
+  <EntityType Name="Bill">
+    <Key>
+      <PropertyRef Name="idBill" />
+    </Key>
+    <Property Name="idBill" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="dateCheckIn" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="dateCheckOut" Type="DateTime" Precision="3" />
+    <Property Name="idTable" Type="Int32" Nullable="false" />
+    <Property Name="statusBill" Type="Int32" Nullable="false" />
+    <Property Name="discount" Type="Int32" />
+    <Property Name="totalPrice" Type="Double" />
+    <Property Name="payerId" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Account" Relationship="Self.FK__Bill__payerId__4316F928" FromRole="Bill" ToRole="Account" />
+    <NavigationProperty Name="TableFood" Relationship="Self.FK__Bill__idTable__4222D4EF" FromRole="Bill" ToRole="TableFood" />
+    <NavigationProperty Name="BillInfoes" Relationship="Self.FK__BillInfo__idBill__46E78A0C" FromRole="Bill" ToRole="BillInfo" />
+  </EntityType>
+  <EntityType Name="BillInfo">
+    <Key>
+      <PropertyRef Name="idBillInfo" />
+    </Key>
+    <Property Name="idBillInfo" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="idBill" Type="Int32" Nullable="false" />
+    <Property Name="idFood" Type="Int32" Nullable="false" />
+    <Property Name="countFood" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Bill" Relationship="Self.FK__BillInfo__idBill__46E78A0C" FromRole="BillInfo" ToRole="Bill" />
+    <NavigationProperty Name="Food" Relationship="Self.FK__BillInfo__idFood__47DBAE45" FromRole="BillInfo" ToRole="Food" />
+  </EntityType>
+  <EntityType Name="BillInfoOfWareHouse">
+    <Key>
+      <PropertyRef Name="idBillInfoOfWareHouse" />
+    </Key>
+    <Property Name="idBillInfoOfWareHouse" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="idBillOfWareHouse" Type="Int32" />
+    <Property Name="idMaterial" Type="Int32" />
+    <Property Name="number" Type="Int32" />
+    <Property Name="price" Type="Int32" Nullable="false" />
+    <Property Name="totalPrice" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="BillOfWareHouse" Relationship="Self.FK__BillInfoO__idBil__534D60F1" FromRole="BillInfoOfWareHouse" ToRole="BillOfWareHouse" />
+    <NavigationProperty Name="Material" Relationship="Self.FK__BillInfoO__idMat__5441852A" FromRole="BillInfoOfWareHouse" ToRole="Material" />
+  </EntityType>
+  <EntityType Name="BillOfWareHouse">
+    <Key>
+      <PropertyRef Name="idBillOfWareHouse" />
+    </Key>
+    <Property Name="idBillOfWareHouse" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="dateAdded" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="supplier" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="note" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="BillInfoOfWareHouses" Relationship="Self.FK__BillInfoO__idBil__534D60F1" FromRole="BillOfWareHouse" ToRole="BillInfoOfWareHouse" />
+    <Property Name="userName" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Account" Relationship="RestaurantManager.FK__BillOfWar__userN__17036CC0" FromRole="BillOfWareHouse" ToRole="Account" />
+  </EntityType>
+  <EntityType Name="Food">
+    <Key>
+      <PropertyRef Name="idFood" />
+    </Key>
+    <Property Name="idFood" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="nameFood" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="idFC" Type="Int32" Nullable="false" />
+    <Property Name="price" Type="Double" Nullable="false" />
+    <Property Name="imageFood" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="statusFood" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="BillInfoes" Relationship="Self.FK__BillInfo__idFood__47DBAE45" FromRole="Food" ToRole="BillInfo" />
+    <NavigationProperty Name="FoodCategory" Relationship="Self.FK__Food__idFC__3A81B327" FromRole="Food" ToRole="FoodCategory" />
+  </EntityType>
+  <EntityType Name="FoodCategory">
+    <Key>
+      <PropertyRef Name="idFC" />
+    </Key>
+    <Property Name="idFC" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="nameFC" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Foods" Relationship="Self.FK__Food__idFC__3A81B327" FromRole="FoodCategory" ToRole="Food" />
+  </EntityType>
+  <EntityType Name="Material">
+    <Key>
+      <PropertyRef Name="idMaterial" />
+    </Key>
+    <Property Name="idMaterial" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="nameMaterial" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="idUnit" Type="Int32" />
+    <NavigationProperty Name="BillInfoOfWareHouses" Relationship="Self.FK__BillInfoO__idMat__5441852A" FromRole="Material" ToRole="BillInfoOfWareHouse" />
+    <NavigationProperty Name="Unit" Relationship="Self.FK__Material__idUnit__5070F446" FromRole="Material" ToRole="Unit" />
+  </EntityType>
+  <EntityType Name="Position">
+    <Key>
+      <PropertyRef Name="idPosition" />
+    </Key>
+    <Property Name="idPosition" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="namePosition" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="coefficientSalary" Type="Double" />
+    <NavigationProperty Name="Staffs" Relationship="Self.FK__Staff__idPositio__2B3F6F97" FromRole="Position" ToRole="Staff" />
+  </EntityType>
+  <EntityType Name="Staff">
+    <Key>
+      <PropertyRef Name="idStaff" />
+    </Key>
+    <Property Name="idStaff" Type="String" MaxLength="5" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="nameStaff" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="sex" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Name="idPosition" Type="Int32" Nullable="false" />
+    <Property Name="dateOfBirth" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="identityCard" Type="String" MaxLength="12" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="phoneNumber" Type="String" MaxLength="10" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="address" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Accounts" Relationship="Self.FK__Account__idStaff__30F848ED" FromRole="Staff" ToRole="Account" />
+    <NavigationProperty Name="AttendanceLists" Relationship="Self.FK__Attendanc__idSta__5812160E" FromRole="Staff" ToRole="AttendanceList" />
+    <NavigationProperty Name="Position" Relationship="Self.FK__Staff__idPositio__2B3F6F97" FromRole="Staff" ToRole="Position" />
+  </EntityType>
+  <EntityType Name="TableFood">
+    <Key>
+      <PropertyRef Name="idTable" />
+    </Key>
+    <Property Name="idTable" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="nameTable" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="statusTable" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Bills" Relationship="Self.FK__Bill__idTable__4222D4EF" FromRole="TableFood" ToRole="Bill" />
+  </EntityType>
+  <EntityType Name="Unit">
+    <Key>
+      <PropertyRef Name="idUnit" />
+    </Key>
+    <Property Name="idUnit" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="nameUnit" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Materials" Relationship="Self.FK__Material__idUnit__5070F446" FromRole="Unit" ToRole="Material" />
+  </EntityType>
+  <Association Name="FK__Account__idStaff__30F848ED">
+    <End Role="Staff" Type="Self.Staff" Multiplicity="1" />
+    <End Role="Account" Type="Self.Account" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Staff">
+        <PropertyRef Name="idStaff" />
+      </Principal>
+      <Dependent Role="Account">
+        <PropertyRef Name="idStaff" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Bill__payerId__4316F928">
+    <End Role="Account" Type="Self.Account" Multiplicity="0..1" />
+    <End Role="Bill" Type="Self.Bill" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Account">
+        <PropertyRef Name="userName" />
+      </Principal>
+      <Dependent Role="Bill">
+        <PropertyRef Name="payerId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Attendanc__idSta__5812160E">
+    <End Role="Staff" Type="Self.Staff" Multiplicity="0..1" />
+    <End Role="AttendanceList" Type="Self.AttendanceList" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Staff">
+        <PropertyRef Name="idStaff" />
+      </Principal>
+      <Dependent Role="AttendanceList">
+        <PropertyRef Name="idStaff" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Bill__idTable__4222D4EF">
+    <End Role="TableFood" Type="Self.TableFood" Multiplicity="1" />
+    <End Role="Bill" Type="Self.Bill" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TableFood">
+        <PropertyRef Name="idTable" />
+      </Principal>
+      <Dependent Role="Bill">
+        <PropertyRef Name="idTable" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__BillInfo__idBill__46E78A0C">
+    <End Role="Bill" Type="Self.Bill" Multiplicity="1" />
+    <End Role="BillInfo" Type="Self.BillInfo" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Bill">
+        <PropertyRef Name="idBill" />
+      </Principal>
+      <Dependent Role="BillInfo">
+        <PropertyRef Name="idBill" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__BillInfo__idFood__47DBAE45">
+    <End Role="Food" Type="Self.Food" Multiplicity="1" />
+    <End Role="BillInfo" Type="Self.BillInfo" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Food">
+        <PropertyRef Name="idFood" />
+      </Principal>
+      <Dependent Role="BillInfo">
+        <PropertyRef Name="idFood" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__BillInfoO__idBil__534D60F1">
+    <End Role="BillOfWareHouse" Type="Self.BillOfWareHouse" Multiplicity="0..1" />
+    <End Role="BillInfoOfWareHouse" Type="Self.BillInfoOfWareHouse" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="BillOfWareHouse">
+        <PropertyRef Name="idBillOfWareHouse" />
+      </Principal>
+      <Dependent Role="BillInfoOfWareHouse">
+        <PropertyRef Name="idBillOfWareHouse" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__BillInfoO__idMat__5441852A">
+    <End Role="Material" Type="Self.Material" Multiplicity="0..1" />
+    <End Role="BillInfoOfWareHouse" Type="Self.BillInfoOfWareHouse" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Material">
+        <PropertyRef Name="idMaterial" />
+      </Principal>
+      <Dependent Role="BillInfoOfWareHouse">
+        <PropertyRef Name="idMaterial" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Food__idFC__3A81B327">
+    <End Role="FoodCategory" Type="Self.FoodCategory" Multiplicity="1" />
+    <End Role="Food" Type="Self.Food" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="FoodCategory">
+        <PropertyRef Name="idFC" />
+      </Principal>
+      <Dependent Role="Food">
+        <PropertyRef Name="idFC" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Material__idUnit__5070F446">
+    <End Role="Unit" Type="Self.Unit" Multiplicity="0..1" />
+    <End Role="Material" Type="Self.Material" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Unit">
+        <PropertyRef Name="idUnit" />
+      </Principal>
+      <Dependent Role="Material">
+        <PropertyRef Name="idUnit" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Staff__idPositio__2B3F6F97">
+    <End Role="Position" Type="Self.Position" Multiplicity="1" />
+    <End Role="Staff" Type="Self.Staff" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Position">
+        <PropertyRef Name="idPosition" />
+      </Principal>
+      <Dependent Role="Staff">
+        <PropertyRef Name="idPosition" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="QuanLyQuanAnEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Accounts" EntityType="Self.Account" />
+    <EntitySet Name="AttendanceLists" EntityType="Self.AttendanceList" />
+    <EntitySet Name="Bills" EntityType="Self.Bill" />
+    <EntitySet Name="BillInfoes" EntityType="Self.BillInfo" />
+    <EntitySet Name="BillInfoOfWareHouses" EntityType="Self.BillInfoOfWareHouse" />
+    <EntitySet Name="BillOfWareHouses" EntityType="Self.BillOfWareHouse" />
+    <EntitySet Name="Foods" EntityType="Self.Food" />
+    <EntitySet Name="FoodCategories" EntityType="Self.FoodCategory" />
+    <EntitySet Name="Materials" EntityType="Self.Material" />
+    <EntitySet Name="Positions" EntityType="Self.Position" />
+    <EntitySet Name="Staffs" EntityType="Self.Staff" />
+    <EntitySet Name="TableFoods" EntityType="Self.TableFood" />
+    <EntitySet Name="Units" EntityType="Self.Unit" />
+    <AssociationSet Name="FK__Account__idStaff__30F848ED" Association="Self.FK__Account__idStaff__30F848ED">
+      <End Role="Staff" EntitySet="Staffs" />
+      <End Role="Account" EntitySet="Accounts" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Bill__payerId__4316F928" Association="Self.FK__Bill__payerId__4316F928">
+      <End Role="Account" EntitySet="Accounts" />
+      <End Role="Bill" EntitySet="Bills" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Attendanc__idSta__5812160E" Association="Self.FK__Attendanc__idSta__5812160E">
+      <End Role="Staff" EntitySet="Staffs" />
+      <End Role="AttendanceList" EntitySet="AttendanceLists" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Bill__idTable__4222D4EF" Association="Self.FK__Bill__idTable__4222D4EF">
+      <End Role="TableFood" EntitySet="TableFoods" />
+      <End Role="Bill" EntitySet="Bills" />
+    </AssociationSet>
+    <AssociationSet Name="FK__BillInfo__idBill__46E78A0C" Association="Self.FK__BillInfo__idBill__46E78A0C">
+      <End Role="Bill" EntitySet="Bills" />
+      <End Role="BillInfo" EntitySet="BillInfoes" />
+    </AssociationSet>
+    <AssociationSet Name="FK__BillInfo__idFood__47DBAE45" Association="Self.FK__BillInfo__idFood__47DBAE45">
+      <End Role="Food" EntitySet="Foods" />
+      <End Role="BillInfo" EntitySet="BillInfoes" />
+    </AssociationSet>
+    <AssociationSet Name="FK__BillInfoO__idBil__534D60F1" Association="Self.FK__BillInfoO__idBil__534D60F1">
+      <End Role="BillOfWareHouse" EntitySet="BillOfWareHouses" />
+      <End Role="BillInfoOfWareHouse" EntitySet="BillInfoOfWareHouses" />
+    </AssociationSet>
+    <AssociationSet Name="FK__BillInfoO__idMat__5441852A" Association="Self.FK__BillInfoO__idMat__5441852A">
+      <End Role="Material" EntitySet="Materials" />
+      <End Role="BillInfoOfWareHouse" EntitySet="BillInfoOfWareHouses" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Food__idFC__3A81B327" Association="Self.FK__Food__idFC__3A81B327">
+      <End Role="FoodCategory" EntitySet="FoodCategories" />
+      <End Role="Food" EntitySet="Foods" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Material__idUnit__5070F446" Association="Self.FK__Material__idUnit__5070F446">
+      <End Role="Unit" EntitySet="Units" />
+      <End Role="Material" EntitySet="Materials" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Staff__idPositio__2B3F6F97" Association="Self.FK__Staff__idPositio__2B3F6F97">
+      <End Role="Position" EntitySet="Positions" />
+      <End Role="Staff" EntitySet="Staffs" />
+    </AssociationSet>
+    <FunctionImport Name="UpdateAccount">
+      <Parameter Name="userName" Mode="In" Type="String" />
+      <Parameter Name="displayName" Mode="In" Type="String" />
+      <Parameter Name="passWord" Mode="In" Type="String" />
+      <Parameter Name="newpass" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="UpdateFood">
+      <Parameter Name="idFood" Mode="In" Type="Int32" />
+      <Parameter Name="nameFood" Mode="In" Type="String" />
+      <Parameter Name="idFC" Mode="In" Type="Int32" />
+      <Parameter Name="price" Mode="In" Type="Double" />
+      <Parameter Name="imageFood" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="UpdateFoodCategory">
+      <Parameter Name="idFoodCategory" Mode="In" Type="Int32" />
+      <Parameter Name="nameFoodCategory" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="UpdateTableFood">
+      <Parameter Name="idTable" Mode="In" Type="Int32" />
+      <Parameter Name="nameTable" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="USP_CheckOut">
+      <Parameter Name="discount" Mode="In" Type="Int32" />
+      <Parameter Name="totalPrice" Mode="In" Type="Double" />
+      <Parameter Name="payerId" Mode="In" Type="String" />
+      <Parameter Name="id" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="USP_GetAccountByName" ReturnType="Collection(RestaurantManager.USP_GetAccountByName_Result)">
+      <Parameter Name="userName" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="USP_GetListBillByDate" ReturnType="Collection(RestaurantManager.USP_GetListBillByDate_Result)">
+      <Parameter Name="checkIn" Mode="In" Type="DateTime" />
+      <Parameter Name="checkOut" Mode="In" Type="DateTime" />
+    </FunctionImport>
+    <FunctionImport Name="USP_GetMaxBill" ReturnType="Collection(Int32)" />
+    <FunctionImport Name="USP_GetTableList" ReturnType="Collection(RestaurantManager.USP_GetTableList_Result)" />
+    <FunctionImport Name="USP_GetTopFood" ReturnType="Collection(RestaurantManager.USP_GetTopFood_Result)">
+      <Parameter Name="checkIn" Mode="In" Type="DateTime" />
+      <Parameter Name="checkOut" Mode="In" Type="DateTime" />
+    </FunctionImport>
+    <FunctionImport Name="USP_InsertBill">
+      <Parameter Name="idTable" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="USP_InsertBillInfo">
+      <Parameter Name="idBill" Mode="In" Type="Int32" />
+      <Parameter Name="idFood" Mode="In" Type="Int32" />
+      <Parameter Name="countFood" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="USP_Login" ReturnType="Collection(RestaurantManager.USP_Login_Result)">
+      <Parameter Name="userName" Mode="In" Type="String" />
+      <Parameter Name="passWord" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="USP_InsertUnit">
+      <Parameter Name="name" Mode="In" Type="String" />
+    </FunctionImport>
+    <AssociationSet Name="FK__BillOfWar__userN__17036CC0" Association="RestaurantManager.FK__BillOfWar__userN__17036CC0">
+      <End Role="Account" EntitySet="Accounts" />
+      <End Role="BillOfWareHouse" EntitySet="BillOfWareHouses" />
+    </AssociationSet>
+    <FunctionImport Name="USP_InsertBillOfWareHouse">
+      <Parameter Name="supplier" Mode="In" Type="String" />
+      <Parameter Name="note" Mode="In" Type="String" />
+      <Parameter Name="userName" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="USP_InsertBillInfoOfWareHouse">
+      <Parameter Name="idBillOfWareHouse" Mode="In" Type="Int32" />
+      <Parameter Name="idMaterial" Mode="In" Type="Int32" />
+      <Parameter Name="number" Mode="In" Type="Int32" />
+      <Parameter Name="price" Mode="In" Type="Int32" />
+      <Parameter Name="totalPrice" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="USP_DeleteMaterial">
+      <Parameter Name="idMaterial" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="USP_InsertMaterial">
+      <Parameter Name="name" Mode="In" Type="String" />
+      <Parameter Name="idUnit" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="USP_CheckExitsAttendanceList" ReturnType="Collection(RestaurantManager.USP_CheckExitsAttendanceList_Result)">
+      <Parameter Name="idStaff" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="USP_GetTotalAttendanceList" ReturnType="Collection(RestaurantManager.USP_GetTotalAttendanceList_Result)" />
+    <FunctionImport Name="USP_InsertAttendanceList">
+      <Parameter Name="idStaff" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="USP_GetTotalBillsInDay" ReturnType="Collection(RestaurantManager.USP_GetTotalBillsInDay_Result)" />
+    <FunctionImport Name="USP_InsertAccount">
+      <Parameter Name="userName" Mode="In" Type="String" />
+      <Parameter Name="passWord" Mode="In" Type="String" />
+      <Parameter Name="displayName" Mode="In" Type="String" />
+      <Parameter Name="typeAccount" Mode="In" Type="Int32" />
+      <Parameter Name="idStaff" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="USP_InsertFood">
+      <Parameter Name="nameFood" Mode="In" Type="String" />
+      <Parameter Name="idFC" Mode="In" Type="Int32" />
+      <Parameter Name="price" Mode="In" Type="Double" />
+      <Parameter Name="imageFood" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="USP_InsertStaff">
+      <Parameter Name="idStaff" Mode="In" Type="String" />
+      <Parameter Name="nameStaff" Mode="In" Type="String" />
+      <Parameter Name="sex" Mode="In" Type="String" />
+      <Parameter Name="idPosition" Mode="In" Type="Int32" />
+      <Parameter Name="dateOfBirth" Mode="In" Type="DateTime" />
+      <Parameter Name="identityCard" Mode="In" Type="String" />
+      <Parameter Name="phoneNumber" Mode="In" Type="String" />
+      <Parameter Name="address" Mode="In" Type="String" />
+    </FunctionImport>
+  </EntityContainer>
+  <ComplexType Name="USP_GetAccountByName_Result">
+    <Property Type="String" Name="userName" Nullable="false" MaxLength="100" />
+    <Property Type="String" Name="passWord" Nullable="false" MaxLength="1000" />
+    <Property Type="String" Name="displayName" Nullable="false" MaxLength="100" />
+    <Property Type="Int32" Name="typeAccount" Nullable="false" />
+    <Property Type="String" Name="idStaff" Nullable="false" MaxLength="5" />
+  </ComplexType>
+  <ComplexType Name="USP_GetListBillByDate_Result">
+    <Property Type="Int32" Name="idBill" Nullable="false" />
+    <Property Type="DateTime" Name="dateCheckIn" Nullable="false" />
+    <Property Type="DateTime" Name="dateCheckOut" Nullable="true" />
+    <Property Type="Int32" Name="idTable" Nullable="false" />
+    <Property Type="Int32" Name="statusBill" Nullable="false" />
+    <Property Type="Int32" Name="discount" Nullable="true" />
+    <Property Type="Double" Name="totalPrice" Nullable="true" />
+    <Property Type="String" Name="payerId" Nullable="true" MaxLength="100" />
+  </ComplexType>
+  <ComplexType Name="USP_GetTableList_Result">
+    <Property Type="Int32" Name="idTable" Nullable="false" />
+    <Property Type="String" Name="nameTable" Nullable="false" MaxLength="100" />
+    <Property Type="String" Name="statusTable" Nullable="false" MaxLength="100" />
+  </ComplexType>
+  <ComplexType Name="USP_GetTopFood_Result">
+    <Property Type="String" Name="nameFood" Nullable="false" MaxLength="100" />
+    <Property Type="Int32" Name="countFood" Nullable="true" />
+    <Property Type="Double" Name="price" Nullable="false" />
+    <Property Type="Double" Name="totalPrice" Nullable="true" />
+  </ComplexType>
+  <ComplexType Name="USP_Login_Result">
+    <Property Type="String" Name="userName" Nullable="false" MaxLength="100" />
+    <Property Type="String" Name="passWord" Nullable="false" MaxLength="1000" />
+    <Property Type="String" Name="displayName" Nullable="false" MaxLength="100" />
+    <Property Type="Int32" Name="typeAccount" Nullable="false" />
+    <Property Type="String" Name="idStaff" Nullable="false" MaxLength="5" />
+  </ComplexType>
+  <Association Name="FK__BillOfWar__userN__17036CC0">
+    <End Type="RestaurantManager.Account" Role="Account" Multiplicity="0..1" />
+    <End Type="RestaurantManager.BillOfWareHouse" Role="BillOfWareHouse" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Account">
+        <PropertyRef Name="userName" />
+      </Principal>
+      <Dependent Role="BillOfWareHouse">
+        <PropertyRef Name="userName" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <ComplexType Name="USP_CheckExitsAttendanceList_Result">
+    <Property Type="Int32" Name="id" Nullable="false" />
+    <Property Type="String" Name="idStaff" Nullable="true" MaxLength="5" />
+    <Property Type="DateTime" Name="dateCheckIn" Nullable="false" Precision="23" />
+  </ComplexType>
+  <ComplexType Name="USP_GetTotalAttendanceList_Result">
+    <Property Type="Int32" Name="id" Nullable="false" />
+    <Property Type="String" Name="idStaff" Nullable="true" MaxLength="5" />
+    <Property Type="DateTime" Name="dateCheckIn" Nullable="false" Precision="23" />
+  </ComplexType>
+  <ComplexType Name="USP_GetTotalBillsInDay_Result">
+    <Property Type="Int32" Name="idBill" Nullable="false" />
+    <Property Type="DateTime" Name="dateCheckIn" Nullable="false" />
+    <Property Type="DateTime" Name="dateCheckOut" Nullable="true" />
+    <Property Type="Int32" Name="idTable" Nullable="false" />
+    <Property Type="Int32" Name="statusBill" Nullable="false" />
+    <Property Type="Int32" Name="discount" Nullable="true" />
+    <Property Type="Double" Name="totalPrice" Nullable="true" />
+    <Property Type="String" Name="payerId" Nullable="true" MaxLength="100" />
+  </ComplexType>
+</Schema>

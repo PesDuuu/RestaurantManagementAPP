@@ -14,7 +14,7 @@ namespace QuanLyQuanAn.Admin
 {
     public partial class frmRevenueReport : Form
     {
-        public string x = "";
+       /*public string x = "";
         public frmRevenueReport(DateTime checkIn, DateTime checkOut)
         {
             InitializeComponent();
@@ -23,7 +23,7 @@ namespace QuanLyQuanAn.Admin
 
         private void frmRevenueReport_Load(object sender, EventArgs e)
         {
-            // TODO: This line of code loads data into the 'quanLyQuanAnDataSet.Bill' table. You can move, or remove it, as needed.
+            //  Load data vào Bill
 
             this.reportViewer1.RefreshReport();
         }
@@ -38,13 +38,12 @@ namespace QuanLyQuanAn.Admin
                 ReportParameter[] parameter = new ReportParameter[2]; 
                 parameter[0] = new ReportParameter("fromDate");
                 parameter[0].Values.Add(checkIn.ToString().Split(' ')[0]); 
-
                 parameter[1] = new ReportParameter("toDate");
                 parameter[1].Values.Add(checkOut.ToString().Split(' ')[0]); 
                 reportViewer1.LocalReport.SetParameters(parameter);
                 reportViewer1.Refresh();
             }
-        }
+        }*/
 
     }
 }

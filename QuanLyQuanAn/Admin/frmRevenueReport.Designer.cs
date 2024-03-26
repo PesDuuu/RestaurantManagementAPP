@@ -56,7 +56,6 @@
             this.reportViewer1.LocalReport.ReportEmbeddedResource = "QuanLyQuanAn.Admin.RevenueReport.rdlc";
             this.reportViewer1.Location = new System.Drawing.Point(0, 0);
             this.reportViewer1.Name = "reportViewer1";
-            this.reportViewer1.ServerReport.BearerToken = null;
             this.reportViewer1.Size = new System.Drawing.Size(800, 450);
             this.reportViewer1.TabIndex = 0;
             // 
@@ -76,7 +75,7 @@
             this.Controls.Add(this.reportViewer1);
             this.Name = "frmRevenueReport";
             this.Text = "Thống kê doanh thu";
-            this.Load += new System.EventHandler(this.frmRevenueReport_Load);
+            //this.Load += new System.EventHandler(this.frmRevenueReport_Load);
             ((System.ComponentModel.ISupportInitialize)(this.quanLyQuanAnDataSetBindingSource)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.billBindingSource)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.BillByDateBingdingSource)).EndInit();

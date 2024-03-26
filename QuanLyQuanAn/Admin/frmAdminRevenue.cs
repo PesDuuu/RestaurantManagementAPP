@@ -147,8 +147,8 @@ namespace QuanLyQuanAn
         }
         private void btnPayment_Click(object sender, EventArgs e)
         {
-            Form f = new Admin.frmRevenueReport(dtpkFromDate.Value, DtpkToDate.Value);
-            f.ShowDialog();
+            //Form f = new Admin.frmRevenueReport(dtpkFromDate.Value, DtpkToDate.Value);
+            //f.ShowDialog();
         }
 
         private void DtpkToDate_ValueChanged(object sender, EventArgs e)

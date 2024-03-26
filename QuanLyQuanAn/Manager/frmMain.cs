@@ -229,7 +229,7 @@ namespace QuanLyQuanAn
         private void btnInfo_Click(object sender, EventArgs e)
         {
             hidensub();
-            ActivateButton(sender, RGBcolors.color6);
+            ActivateButton(sender, RGBcolors.color1);
             leftBoardbtn.Location = new Point(0, btnInfo.Location.Y);
             Openchildform(new frmInfomation());
         }
@@ -265,8 +265,13 @@ namespace QuanLyQuanAn
         {
             WindowState = FormWindowState.Minimized;
         }
+        private void frmMain_Load(object sender, EventArgs e)
+        {
 
+        }
 
         #endregion
+
+
     }
 }

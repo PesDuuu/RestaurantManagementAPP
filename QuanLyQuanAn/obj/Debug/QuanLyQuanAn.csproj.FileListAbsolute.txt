@@ -1,0 +1,1207 @@
+P:\QuanLyQuanAn\Project\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.exe.config
+P:\QuanLyQuanAn\Project\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.exe
+P:\QuanLyQuanAn\Project\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.pdb
+P:\QuanLyQuanAn\Project\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csprojAssemblyReference.cache
+P:\QuanLyQuanAn\Project\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Properties.Resources.resources
+P:\QuanLyQuanAn\Project\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.GenerateResource.cache
+P:\QuanLyQuanAn\Project\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.exe
+P:\QuanLyQuanAn\Project\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.pdb
+P:\QuanLyQuanAn\Project\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Bunifu_UI_v1.5.3.dll
+P:\QuanLyQuanAn\Project\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Bunifu_UI_v1.5.3.xml
+P:\QuanLyQuanAn\Project\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.CopyComplete
+P:\QuanLyQuanAn\Project\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.fTableManager.resources
+P:\QuanLyQuanAn\Project\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.FormLogin.resources
+P:\QuanLyQuanAn\Project\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.fAccount.resources
+P:\QuanLyQuanAn\Project\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.fAdmin.resources
+E:\Project\QuanLyQuanAn\Project\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.exe.config
+E:\Project\QuanLyQuanAn\Project\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.exe
+E:\Project\QuanLyQuanAn\Project\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.pdb
+E:\Project\QuanLyQuanAn\Project\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\Project\QuanLyQuanAn\Project\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Bunifu_UI_v1.5.3.xml
+E:\Project\QuanLyQuanAn\Project\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csprojAssemblyReference.cache
+E:\Project\QuanLyQuanAn\Project\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.fAccount.resources
+E:\Project\QuanLyQuanAn\Project\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.fAdmin.resources
+E:\Project\QuanLyQuanAn\Project\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.fTableManager.resources
+E:\Project\QuanLyQuanAn\Project\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Properties.Resources.resources
+E:\Project\QuanLyQuanAn\Project\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.GenerateResource.cache
+E:\Project\QuanLyQuanAn\Project\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.CopyComplete
+E:\Project\QuanLyQuanAn\Project\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.exe
+E:\Project\QuanLyQuanAn\Project\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.pdb
+E:\Project\QuanLyQuanAn\Project\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.fLogin.resources
+E:\Project\QuanLyQuanAn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.exe.config
+E:\Project\QuanLyQuanAn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.exe
+E:\Project\QuanLyQuanAn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.pdb
+E:\Project\QuanLyQuanAn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\Project\QuanLyQuanAn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Bunifu_UI_v1.5.3.xml
+E:\Project\QuanLyQuanAn\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csprojAssemblyReference.cache
+E:\Project\QuanLyQuanAn\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.fAccount.resources
+E:\Project\QuanLyQuanAn\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.fAdmin.resources
+E:\Project\QuanLyQuanAn\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.fLogin.resources
+E:\Project\QuanLyQuanAn\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.fTableManager.resources
+E:\Project\QuanLyQuanAn\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Properties.Resources.resources
+E:\Project\QuanLyQuanAn\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.GenerateResource.cache
+E:\Project\QuanLyQuanAn\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.CopyComplete
+E:\Project\QuanLyQuanAn\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.exe
+E:\Project\QuanLyQuanAn\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.pdb
+E:\C#\QuanLyQuanAn\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csprojAssemblyReference.cache
+E:\C#\QuanLyQuanAn\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.fAccount.resources
+E:\C#\QuanLyQuanAn\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.fAdmin.resources
+E:\C#\QuanLyQuanAn\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.fLogin.resources
+E:\C#\QuanLyQuanAn\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.fTableManager.resources
+E:\C#\QuanLyQuanAn\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Properties.Resources.resources
+E:\C#\QuanLyQuanAn\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.GenerateResource.cache
+E:\C#\QuanLyQuanAn\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.exe
+E:\C#\QuanLyQuanAn\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.pdb
+E:\C#\QuanLyQuanAn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.exe.config
+E:\C#\QuanLyQuanAn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.exe
+E:\C#\QuanLyQuanAn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.pdb
+E:\C#\QuanLyQuanAn\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Bunifu_UI_v1.5.3.xml
+E:\C#\QuanLyQuanAn\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.CopyComplete
+E:\C#\QuanLyQuanCafe\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csprojAssemblyReference.cache
+E:\C#\QuanLyQuanCafe\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.fAccount.resources
+E:\C#\QuanLyQuanCafe\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.fAdmin.resources
+E:\C#\QuanLyQuanCafe\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.fLogin.resources
+E:\C#\QuanLyQuanCafe\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.fTableManager.resources
+E:\C#\QuanLyQuanCafe\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Properties.Resources.resources
+E:\C#\QuanLyQuanCafe\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.GenerateResource.cache
+E:\C#\QuanLyQuanCafe\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.exe
+E:\C#\QuanLyQuanCafe\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.pdb
+E:\C#\QuanLyQuanCafe\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.exe.config
+E:\C#\QuanLyQuanCafe\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.exe
+E:\C#\QuanLyQuanCafe\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.pdb
+E:\C#\QuanLyQuanCafe\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Bunifu_UI_v1.5.3.xml
+E:\C#\QuanLyQuanCafe\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.CopyComplete
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.exe.config
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.exe
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.pdb
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Bunifu_UI_v1.5.3.xml
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csprojAssemblyReference.cache
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Properties.Resources.resources
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.GenerateResource.cache
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.CopyComplete
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.exe
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.pdb
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmAccount.resources
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmAdmin.resources
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmLogin.resources
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmTableManager.resources
+C:\Cnpm\restaurant_management_project\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.exe.config
+C:\Cnpm\restaurant_management_project\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.exe
+C:\Cnpm\restaurant_management_project\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.pdb
+C:\Cnpm\restaurant_management_project\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Cnpm\restaurant_management_project\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csprojAssemblyReference.cache
+C:\Cnpm\restaurant_management_project\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmAccount.resources
+C:\Cnpm\restaurant_management_project\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmAdmin.resources
+C:\Cnpm\restaurant_management_project\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmLogin.resources
+C:\Cnpm\restaurant_management_project\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmTableManager.resources
+C:\Cnpm\restaurant_management_project\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Properties.Resources.resources
+C:\Cnpm\restaurant_management_project\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.GenerateResource.cache
+C:\Cnpm\restaurant_management_project\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.CoreCompileInputs.cache
+C:\Cnpm\restaurant_management_project\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.CopyComplete
+C:\Cnpm\restaurant_management_project\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.exe
+C:\Cnpm\restaurant_management_project\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.pdb
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\FontAwesome.Sharp.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Xceed.Wpf.AvalonDock.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Xceed.Wpf.Toolkit.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Main.resources
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Admin.resources
+E:\C#\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.exe.config
+E:\C#\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.exe
+E:\C#\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.pdb
+E:\C#\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\FontAwesome.Sharp.dll
+E:\C#\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Xceed.Wpf.AvalonDock.dll
+E:\C#\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+E:\C#\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+E:\C#\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+E:\C#\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Xceed.Wpf.Toolkit.dll
+E:\C#\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Bunifu_UI_v1.5.3.xml
+E:\C#\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+E:\C#\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+E:\C#\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+E:\C#\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+E:\C#\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+E:\C#\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+E:\C#\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+E:\C#\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+E:\C#\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+E:\C#\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+E:\C#\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+E:\C#\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csprojAssemblyReference.cache
+E:\C#\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmAccount.resources
+E:\C#\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmAdmin.resources
+E:\C#\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmLogin.resources
+E:\C#\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmTableManager.resources
+E:\C#\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Properties.Resources.resources
+E:\C#\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.GenerateResource.cache
+E:\C#\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.CopyComplete
+E:\C#\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.exe
+E:\C#\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.pdb
+E:\C#\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmInfomation.resources
+E:\C#\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmMain.resources
+E:\C#\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmAdminFood.resources
+E:\C#\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmWareHouse.resources
+E:\C#\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmAddWareHouse.resources
+E:\C#\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmManagerFood.resources
+E:\C#\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmAdminStaff.resources
+E:\C#\PhanMemQuanLyQuanAnABC\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.exe.config
+E:\C#\PhanMemQuanLyQuanAnABC\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.exe
+E:\C#\PhanMemQuanLyQuanAnABC\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.pdb
+E:\C#\PhanMemQuanLyQuanAnABC\QuanLyQuanAn\bin\Debug\FontAwesome.Sharp.dll
+E:\C#\PhanMemQuanLyQuanAnABC\QuanLyQuanAn\bin\Debug\Xceed.Wpf.AvalonDock.dll
+E:\C#\PhanMemQuanLyQuanAnABC\QuanLyQuanAn\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+E:\C#\PhanMemQuanLyQuanAnABC\QuanLyQuanAn\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+E:\C#\PhanMemQuanLyQuanAnABC\QuanLyQuanAn\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+E:\C#\PhanMemQuanLyQuanAnABC\QuanLyQuanAn\bin\Debug\Xceed.Wpf.Toolkit.dll
+E:\C#\PhanMemQuanLyQuanAnABC\QuanLyQuanAn\bin\Debug\Bunifu_UI_v1.5.3.xml
+E:\C#\PhanMemQuanLyQuanAnABC\QuanLyQuanAn\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+E:\C#\PhanMemQuanLyQuanAnABC\QuanLyQuanAn\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+E:\C#\PhanMemQuanLyQuanAnABC\QuanLyQuanAn\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+E:\C#\PhanMemQuanLyQuanAnABC\QuanLyQuanAn\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+E:\C#\PhanMemQuanLyQuanAnABC\QuanLyQuanAn\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+E:\C#\PhanMemQuanLyQuanAnABC\QuanLyQuanAn\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+E:\C#\PhanMemQuanLyQuanAnABC\QuanLyQuanAn\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+E:\C#\PhanMemQuanLyQuanAnABC\QuanLyQuanAn\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+E:\C#\PhanMemQuanLyQuanAnABC\QuanLyQuanAn\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+E:\C#\PhanMemQuanLyQuanAnABC\QuanLyQuanAn\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+E:\C#\PhanMemQuanLyQuanAnABC\QuanLyQuanAn\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+E:\C#\PhanMemQuanLyQuanAnABC\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csprojAssemblyReference.cache
+E:\C#\PhanMemQuanLyQuanAnABC\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmAdminStaff.resources
+E:\C#\PhanMemQuanLyQuanAnABC\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmAddWareHouse.resources
+E:\C#\PhanMemQuanLyQuanAnABC\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmAdminFood.resources
+E:\C#\PhanMemQuanLyQuanAnABC\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmLogin.resources
+E:\C#\PhanMemQuanLyQuanAnABC\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmInfomation.resources
+E:\C#\PhanMemQuanLyQuanAnABC\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmMain.resources
+E:\C#\PhanMemQuanLyQuanAnABC\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmAccount.resources
+E:\C#\PhanMemQuanLyQuanAnABC\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmTableManager.resources
+E:\C#\PhanMemQuanLyQuanAnABC\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmWareHouse.resources
+E:\C#\PhanMemQuanLyQuanAnABC\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmManagerFood.resources
+E:\C#\PhanMemQuanLyQuanAnABC\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Properties.Resources.resources
+E:\C#\PhanMemQuanLyQuanAnABC\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.GenerateResource.cache
+E:\C#\PhanMemQuanLyQuanAnABC\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.CopyComplete
+E:\C#\PhanMemQuanLyQuanAnABC\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.exe
+E:\C#\PhanMemQuanLyQuanAnABC\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.pdb
+E:\C#\PhanMemQuanLyQuanAnABC\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmCategory.resources
+E:\C#\PhanMemQuanLyQuanAnABC\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmAdminTableFood.resources
+E:\C#\PhanMemQuanLyQuanAnABC\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmAdminAccount.resources
+E:\C#\PhanMemQuanLyQuanAnABC\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmAdminRevenue.resources
+E:\C#\PhanMemQuanLyQuanAnABC\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Admin.frmAdmin.resources
+E:\C#\PhanMemQuanLyQuanAnABC\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmAttendanceList.resources
+D:\DoAn\QuanLyQuanAnABC\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.exe.config
+D:\DoAn\QuanLyQuanAnABC\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.exe
+D:\DoAn\QuanLyQuanAnABC\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.pdb
+D:\DoAn\QuanLyQuanAnABC\QuanLyQuanAn\bin\Debug\FontAwesome.Sharp.dll
+D:\DoAn\QuanLyQuanAnABC\QuanLyQuanAn\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\DoAn\QuanLyQuanAnABC\QuanLyQuanAn\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\DoAn\QuanLyQuanAnABC\QuanLyQuanAn\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\DoAn\QuanLyQuanAnABC\QuanLyQuanAn\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\DoAn\QuanLyQuanAnABC\QuanLyQuanAn\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\DoAn\QuanLyQuanAnABC\QuanLyQuanAn\bin\Debug\Bunifu_UI_v1.5.3.xml
+D:\DoAn\QuanLyQuanAnABC\QuanLyQuanAn\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+D:\DoAn\QuanLyQuanAnABC\QuanLyQuanAn\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\DoAn\QuanLyQuanAnABC\QuanLyQuanAn\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\DoAn\QuanLyQuanAnABC\QuanLyQuanAn\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\DoAn\QuanLyQuanAnABC\QuanLyQuanAn\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\DoAn\QuanLyQuanAnABC\QuanLyQuanAn\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\DoAn\QuanLyQuanAnABC\QuanLyQuanAn\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\DoAn\QuanLyQuanAnABC\QuanLyQuanAn\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\DoAn\QuanLyQuanAnABC\QuanLyQuanAn\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\DoAn\QuanLyQuanAnABC\QuanLyQuanAn\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\DoAn\QuanLyQuanAnABC\QuanLyQuanAn\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\DoAn\QuanLyQuanAnABC\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csprojAssemblyReference.cache
+D:\DoAn\QuanLyQuanAnABC\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Admin.frmAdmin.resources
+D:\DoAn\QuanLyQuanAnABC\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmAdminAccount.resources
+D:\DoAn\QuanLyQuanAnABC\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmAdminRevenue.resources
+D:\DoAn\QuanLyQuanAnABC\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmAdminTableFood.resources
+D:\DoAn\QuanLyQuanAnABC\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmCategory.resources
+D:\DoAn\QuanLyQuanAnABC\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmAdminStaff.resources
+D:\DoAn\QuanLyQuanAnABC\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmAttendanceList.resources
+D:\DoAn\QuanLyQuanAnABC\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmAddWareHouse.resources
+D:\DoAn\QuanLyQuanAnABC\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmAdminFood.resources
+D:\DoAn\QuanLyQuanAnABC\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmLogin.resources
+D:\DoAn\QuanLyQuanAnABC\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmInfomation.resources
+D:\DoAn\QuanLyQuanAnABC\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmMain.resources
+D:\DoAn\QuanLyQuanAnABC\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmAccount.resources
+D:\DoAn\QuanLyQuanAnABC\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmAdmin.resources
+D:\DoAn\QuanLyQuanAnABC\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmTableManager.resources
+D:\DoAn\QuanLyQuanAnABC\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmWareHouse.resources
+D:\DoAn\QuanLyQuanAnABC\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmManagerFood.resources
+D:\DoAn\QuanLyQuanAnABC\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Properties.Resources.resources
+D:\DoAn\QuanLyQuanAnABC\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.GenerateResource.cache
+D:\DoAn\QuanLyQuanAnABC\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.CoreCompileInputs.cache
+D:\DoAn\QuanLyQuanAnABC\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.CopyComplete
+D:\DoAn\QuanLyQuanAnABC\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.exe
+D:\DoAn\QuanLyQuanAnABC\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.pdb
+C:\Users\Admin\source\repos\QuanLyQuanAnABC\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.exe.config
+C:\Users\Admin\source\repos\QuanLyQuanAnABC\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.exe
+C:\Users\Admin\source\repos\QuanLyQuanAnABC\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.pdb
+C:\Users\Admin\source\repos\QuanLyQuanAnABC\QuanLyQuanAn\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Admin\source\repos\QuanLyQuanAnABC\QuanLyQuanAn\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Admin\source\repos\QuanLyQuanAnABC\QuanLyQuanAn\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Admin\source\repos\QuanLyQuanAnABC\QuanLyQuanAn\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Admin\source\repos\QuanLyQuanAnABC\QuanLyQuanAn\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Admin\source\repos\QuanLyQuanAnABC\QuanLyQuanAn\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Admin\source\repos\QuanLyQuanAnABC\QuanLyQuanAn\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\Admin\source\repos\QuanLyQuanAnABC\QuanLyQuanAn\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Admin\source\repos\QuanLyQuanAnABC\QuanLyQuanAn\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Admin\source\repos\QuanLyQuanAnABC\QuanLyQuanAn\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Admin\source\repos\QuanLyQuanAnABC\QuanLyQuanAn\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Admin\source\repos\QuanLyQuanAnABC\QuanLyQuanAn\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Admin\source\repos\QuanLyQuanAnABC\QuanLyQuanAn\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Admin\source\repos\QuanLyQuanAnABC\QuanLyQuanAn\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Admin\source\repos\QuanLyQuanAnABC\QuanLyQuanAn\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Admin\source\repos\QuanLyQuanAnABC\QuanLyQuanAn\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Admin\source\repos\QuanLyQuanAnABC\QuanLyQuanAn\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Admin\source\repos\QuanLyQuanAnABC\QuanLyQuanAn\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Admin\source\repos\QuanLyQuanAnABC\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\QuanLyQuanAnABC\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Admin.frmAdmin.resources
+C:\Users\Admin\source\repos\QuanLyQuanAnABC\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmAdminAccount.resources
+C:\Users\Admin\source\repos\QuanLyQuanAnABC\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmAdminRevenue.resources
+C:\Users\Admin\source\repos\QuanLyQuanAnABC\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmAdminTableFood.resources
+C:\Users\Admin\source\repos\QuanLyQuanAnABC\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmCategory.resources
+C:\Users\Admin\source\repos\QuanLyQuanAnABC\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmAdminStaff.resources
+C:\Users\Admin\source\repos\QuanLyQuanAnABC\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmAttendanceList.resources
+C:\Users\Admin\source\repos\QuanLyQuanAnABC\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmAddWareHouse.resources
+C:\Users\Admin\source\repos\QuanLyQuanAnABC\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmAdminFood.resources
+C:\Users\Admin\source\repos\QuanLyQuanAnABC\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmLogin.resources
+C:\Users\Admin\source\repos\QuanLyQuanAnABC\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmInfomation.resources
+C:\Users\Admin\source\repos\QuanLyQuanAnABC\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmMain.resources
+C:\Users\Admin\source\repos\QuanLyQuanAnABC\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmAccount.resources
+C:\Users\Admin\source\repos\QuanLyQuanAnABC\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmAdmin.resources
+C:\Users\Admin\source\repos\QuanLyQuanAnABC\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmTableManager.resources
+C:\Users\Admin\source\repos\QuanLyQuanAnABC\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmWareHouse.resources
+C:\Users\Admin\source\repos\QuanLyQuanAnABC\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmManagerFood.resources
+C:\Users\Admin\source\repos\QuanLyQuanAnABC\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Properties.Resources.resources
+C:\Users\Admin\source\repos\QuanLyQuanAnABC\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\QuanLyQuanAnABC\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\QuanLyQuanAnABC\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.CopyComplete
+C:\Users\Admin\source\repos\QuanLyQuanAnABC\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.exe
+C:\Users\Admin\source\repos\QuanLyQuanAnABC\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.pdb
+D:\DoAn\QuanLyQuanAnABC\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.msg.resources
+E:\C#\PhanMemQuanLyQuanAnABC\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.msg.resources
+C:\Users\NTT\Desktop\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csprojAssemblyReference.cache
+C:\Users\NTT\Desktop\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Admin.frmAdmin.resources
+C:\Users\NTT\Desktop\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmAdminAccount.resources
+C:\Users\NTT\Desktop\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmAdminRevenue.resources
+C:\Users\NTT\Desktop\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmAdminTableFood.resources
+C:\Users\NTT\Desktop\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmCategory.resources
+C:\Users\NTT\Desktop\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmAdminStaff.resources
+C:\Users\NTT\Desktop\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmAttendanceList.resources
+C:\Users\NTT\Desktop\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmAddWareHouse.resources
+C:\Users\NTT\Desktop\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmAdminFood.resources
+C:\Users\NTT\Desktop\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmLogin.resources
+C:\Users\NTT\Desktop\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmInfomation.resources
+C:\Users\NTT\Desktop\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmMain.resources
+C:\Users\NTT\Desktop\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmAccount.resources
+C:\Users\NTT\Desktop\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmTableManager.resources
+C:\Users\NTT\Desktop\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmWareHouse.resources
+C:\Users\NTT\Desktop\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmManagerFood.resources
+C:\Users\NTT\Desktop\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.msg.resources
+C:\Users\NTT\Desktop\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Properties.Resources.resources
+C:\Users\NTT\Desktop\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.GenerateResource.cache
+C:\Users\NTT\Desktop\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.exe
+C:\Users\NTT\Desktop\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.pdb
+C:\Users\NTT\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.exe.config
+C:\Users\NTT\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.exe
+C:\Users\NTT\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.pdb
+C:\Users\NTT\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\EntityFramework.dll
+C:\Users\NTT\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\NTT\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\NTT\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\NTT\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\NTT\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\NTT\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\NTT\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\NTT\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\NTT\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\EntityFramework.xml
+C:\Users\NTT\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\NTT\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\NTT\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\NTT\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\NTT\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\NTT\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\NTT\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\NTT\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\NTT\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\NTT\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\NTT\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\NTT\Desktop\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\NTT\Desktop\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.CopyComplete
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.exe.config
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.exe
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.pdb
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\EntityFramework.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\EntityFramework.SqlServer.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\FontAwesome.Sharp.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\Xceed.Wpf.AvalonDock.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\Xceed.Wpf.Toolkit.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\Bunifu_UI_v1.5.3.xml
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\EntityFramework.xml
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\EntityFramework.SqlServer.xml
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csprojAssemblyReference.cache
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Admin.frmAdmin.resources
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmAdminAccount.resources
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmAdminRevenue.resources
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmAdminTableFood.resources
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmCategory.resources
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmAdminStaff.resources
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmAttendanceList.resources
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmAddWareHouse.resources
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmAdminFood.resources
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmLogin.resources
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmInfomation.resources
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmMain.resources
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmAccount.resources
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmTableManager.resources
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmWareHouse.resources
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmManagerFood.resources
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.msg.resources
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Properties.Resources.resources
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.GenerateResource.cache
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.CopyComplete
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.exe
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.pdb
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\EnvDTE.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\stdole.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\EnvDTE80.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\VSLangProj.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\VSLangProj80.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\Newtonsoft.Json.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\Microsoft.MSXML.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\VSLangProj2.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.xml
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.xml
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.xml
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.xml
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.xml
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Admin.frmRevenueReport.resources
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\obj\Debug\RdlCompile.cache
+E:\C#\QuanLyQuanAn_Project\QuanLyQuanAn\obj\Debug\RdlCompile.compiled
+C:\Users\Admin\source\restaurant_management_project\QuanLyQuanAn\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Admin\source\restaurant_management_project\QuanLyQuanAn\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Admin\source\restaurant_management_project\QuanLyQuanAn\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Admin\source\restaurant_management_project\QuanLyQuanAn\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Admin\source\restaurant_management_project\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.exe.config
+C:\Users\Admin\source\restaurant_management_project\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.exe
+C:\Users\Admin\source\restaurant_management_project\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.pdb
+C:\Users\Admin\source\restaurant_management_project\QuanLyQuanAn\bin\Debug\EntityFramework.dll
+C:\Users\Admin\source\restaurant_management_project\QuanLyQuanAn\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\source\restaurant_management_project\QuanLyQuanAn\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Admin\source\restaurant_management_project\QuanLyQuanAn\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Admin\source\restaurant_management_project\QuanLyQuanAn\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Admin\source\restaurant_management_project\QuanLyQuanAn\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Admin\source\restaurant_management_project\QuanLyQuanAn\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Admin\source\restaurant_management_project\QuanLyQuanAn\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Admin\source\restaurant_management_project\QuanLyQuanAn\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Admin\source\restaurant_management_project\QuanLyQuanAn\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Admin\source\restaurant_management_project\QuanLyQuanAn\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Admin\source\restaurant_management_project\QuanLyQuanAn\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Admin\source\restaurant_management_project\QuanLyQuanAn\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Admin\source\restaurant_management_project\QuanLyQuanAn\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Admin\source\restaurant_management_project\QuanLyQuanAn\bin\Debug\EnvDTE.dll
+C:\Users\Admin\source\restaurant_management_project\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Admin\source\restaurant_management_project\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Admin\source\restaurant_management_project\QuanLyQuanAn\bin\Debug\stdole.dll
+C:\Users\Admin\source\restaurant_management_project\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Admin\source\restaurant_management_project\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Admin\source\restaurant_management_project\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Admin\source\restaurant_management_project\QuanLyQuanAn\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Admin\source\restaurant_management_project\QuanLyQuanAn\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\Admin\source\restaurant_management_project\QuanLyQuanAn\bin\Debug\EntityFramework.xml
+C:\Users\Admin\source\restaurant_management_project\QuanLyQuanAn\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\source\restaurant_management_project\QuanLyQuanAn\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\source\restaurant_management_project\QuanLyQuanAn\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\source\restaurant_management_project\QuanLyQuanAn\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\source\restaurant_management_project\QuanLyQuanAn\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\source\restaurant_management_project\QuanLyQuanAn\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\source\restaurant_management_project\QuanLyQuanAn\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\source\restaurant_management_project\QuanLyQuanAn\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\source\restaurant_management_project\QuanLyQuanAn\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\source\restaurant_management_project\QuanLyQuanAn\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\source\restaurant_management_project\QuanLyQuanAn\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\source\restaurant_management_project\QuanLyQuanAn\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\source\restaurant_management_project\QuanLyQuanAn\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\source\restaurant_management_project\QuanLyQuanAn\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\source\restaurant_management_project\QuanLyQuanAn\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\source\restaurant_management_project\QuanLyQuanAn\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\source\restaurant_management_project\QuanLyQuanAn\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\source\restaurant_management_project\QuanLyQuanAn\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\source\restaurant_management_project\QuanLyQuanAn\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\source\restaurant_management_project\QuanLyQuanAn\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\source\restaurant_management_project\QuanLyQuanAn\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\source\restaurant_management_project\QuanLyQuanAn\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\source\restaurant_management_project\QuanLyQuanAn\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\source\restaurant_management_project\QuanLyQuanAn\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\source\restaurant_management_project\QuanLyQuanAn\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\source\restaurant_management_project\QuanLyQuanAn\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\source\restaurant_management_project\QuanLyQuanAn\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\source\restaurant_management_project\QuanLyQuanAn\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\source\restaurant_management_project\QuanLyQuanAn\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\source\restaurant_management_project\QuanLyQuanAn\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\source\restaurant_management_project\QuanLyQuanAn\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\source\restaurant_management_project\QuanLyQuanAn\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\source\restaurant_management_project\QuanLyQuanAn\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\source\restaurant_management_project\QuanLyQuanAn\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\source\restaurant_management_project\QuanLyQuanAn\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\source\restaurant_management_project\QuanLyQuanAn\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\source\restaurant_management_project\QuanLyQuanAn\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\source\restaurant_management_project\QuanLyQuanAn\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\source\restaurant_management_project\QuanLyQuanAn\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\source\restaurant_management_project\QuanLyQuanAn\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\source\restaurant_management_project\QuanLyQuanAn\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\source\restaurant_management_project\QuanLyQuanAn\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Admin\source\restaurant_management_project\QuanLyQuanAn\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Admin\source\restaurant_management_project\QuanLyQuanAn\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Admin\source\restaurant_management_project\QuanLyQuanAn\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Admin\source\restaurant_management_project\QuanLyQuanAn\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Admin\source\restaurant_management_project\QuanLyQuanAn\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Admin\source\restaurant_management_project\QuanLyQuanAn\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Admin\source\restaurant_management_project\QuanLyQuanAn\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Admin\source\restaurant_management_project\QuanLyQuanAn\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Admin\source\restaurant_management_project\QuanLyQuanAn\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Admin\source\restaurant_management_project\QuanLyQuanAn\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Admin\source\restaurant_management_project\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csprojAssemblyReference.cache
+C:\Users\Admin\source\restaurant_management_project\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Admin.frmAdmin.resources
+C:\Users\Admin\source\restaurant_management_project\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmAdminAccount.resources
+C:\Users\Admin\source\restaurant_management_project\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmAdminRevenue.resources
+C:\Users\Admin\source\restaurant_management_project\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmAdminTableFood.resources
+C:\Users\Admin\source\restaurant_management_project\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmCategory.resources
+C:\Users\Admin\source\restaurant_management_project\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmAdminStaff.resources
+C:\Users\Admin\source\restaurant_management_project\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Admin.frmRevenueReport.resources
+C:\Users\Admin\source\restaurant_management_project\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmAttendanceList.resources
+C:\Users\Admin\source\restaurant_management_project\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmAddWareHouse.resources
+C:\Users\Admin\source\restaurant_management_project\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmAdminFood.resources
+C:\Users\Admin\source\restaurant_management_project\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmLogin.resources
+C:\Users\Admin\source\restaurant_management_project\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmInfomation.resources
+C:\Users\Admin\source\restaurant_management_project\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmMain.resources
+C:\Users\Admin\source\restaurant_management_project\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmAccount.resources
+C:\Users\Admin\source\restaurant_management_project\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmTableManager.resources
+C:\Users\Admin\source\restaurant_management_project\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmWareHouse.resources
+C:\Users\Admin\source\restaurant_management_project\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmManagerFood.resources
+C:\Users\Admin\source\restaurant_management_project\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.msg.resources
+C:\Users\Admin\source\restaurant_management_project\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Properties.Resources.resources
+C:\Users\Admin\source\restaurant_management_project\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.GenerateResource.cache
+C:\Users\Admin\source\restaurant_management_project\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\restaurant_management_project\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.CopyComplete
+C:\Users\Admin\source\restaurant_management_project\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.exe
+C:\Users\Admin\source\restaurant_management_project\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.pdb
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.exe.config
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.exe
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.pdb
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\EntityFramework.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\EntityFramework.SqlServer.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\FontAwesome.Sharp.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\Xceed.Wpf.AvalonDock.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\Xceed.Wpf.Toolkit.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\EnvDTE.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\stdole.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\EnvDTE80.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\VSLangProj.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\VSLangProj80.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\Newtonsoft.Json.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\Microsoft.MSXML.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\VSLangProj2.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\Bunifu_UI_v1.5.3.xml
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\EntityFramework.xml
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\EntityFramework.SqlServer.xml
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.xml
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.xml
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.xml
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.xml
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.xml
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csprojAssemblyReference.cache
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Admin.frmAdmin.resources
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmAdminAccount.resources
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmAdminRevenue.resources
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmAdminTableFood.resources
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmCategory.resources
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmAdminStaff.resources
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Admin.frmRevenueReport.resources
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmAttendanceList.resources
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmAddWareHouse.resources
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmAdminFood.resources
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmLogin.resources
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmInfomation.resources
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmMain.resources
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmAccount.resources
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmTableManager.resources
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmWareHouse.resources
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmManagerFood.resources
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.msg.resources
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Properties.Resources.resources
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.GenerateResource.cache
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\obj\Debug\RdlCompile.cache
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\obj\Debug\RdlCompile.compiled
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.CopyComplete
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.exe
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn_Project\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.pdb
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.exe.config
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.exe
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.pdb
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\EntityFramework.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\EntityFramework.SqlServer.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\FontAwesome.Sharp.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Xceed.Wpf.AvalonDock.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Xceed.Wpf.Toolkit.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\EnvDTE.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\stdole.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\EnvDTE80.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\VSLangProj.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\VSLangProj80.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Newtonsoft.Json.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.MSXML.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\VSLangProj2.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Bunifu_UI_v1.5.3.xml
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\EntityFramework.xml
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\EntityFramework.SqlServer.xml
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.xml
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.xml
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.xml
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.xml
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.xml
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csprojAssemblyReference.cache
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Admin.frmAdmin.resources
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmAdminAccount.resources
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmAdminRevenue.resources
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmAdminTableFood.resources
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmCategory.resources
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmAdminStaff.resources
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Admin.frmRevenueReport.resources
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmAttendanceList.resources
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmAddWareHouse.resources
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmAdminFood.resources
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmLogin.resources
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmInfomation.resources
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmMain.resources
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmAccount.resources
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmTableManager.resources
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmWareHouse.resources
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmManagerFood.resources
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.msg.resources
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Properties.Resources.resources
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.GenerateResource.cache
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\RdlCompile.cache
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\RdlCompile.compiled
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.CopyComplete
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.exe
+E:\DHCongNgheTPHCM\C#\LÝ THUYẾT\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.pdb
+C:\Users\Admin\Desktop\QuanLyQuanAn1\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.exe.config
+C:\Users\Admin\Desktop\QuanLyQuanAn1\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.exe
+C:\Users\Admin\Desktop\QuanLyQuanAn1\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.pdb
+C:\Users\Admin\Desktop\QuanLyQuanAn1\QuanLyQuanAn\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1\QuanLyQuanAn\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1\QuanLyQuanAn\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1\QuanLyQuanAn\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1\QuanLyQuanAn\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1\QuanLyQuanAn\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1\QuanLyQuanAn\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1\QuanLyQuanAn\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1\QuanLyQuanAn\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1\QuanLyQuanAn\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1\QuanLyQuanAn\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1\QuanLyQuanAn\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1\QuanLyQuanAn\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1\QuanLyQuanAn\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1\QuanLyQuanAn\bin\Debug\EnvDTE.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1\QuanLyQuanAn\bin\Debug\stdole.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1\QuanLyQuanAn\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1\QuanLyQuanAn\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\Admin\Desktop\QuanLyQuanAn1\QuanLyQuanAn\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\QuanLyQuanAn1\QuanLyQuanAn\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\QuanLyQuanAn1\QuanLyQuanAn\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1\QuanLyQuanAn\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1\QuanLyQuanAn\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1\QuanLyQuanAn\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1\QuanLyQuanAn\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1\QuanLyQuanAn\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1\QuanLyQuanAn\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1\QuanLyQuanAn\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1\QuanLyQuanAn\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1\QuanLyQuanAn\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1\QuanLyQuanAn\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1\QuanLyQuanAn\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1\QuanLyQuanAn\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1\QuanLyQuanAn\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1\QuanLyQuanAn\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1\QuanLyQuanAn\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1\QuanLyQuanAn\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1\QuanLyQuanAn\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1\QuanLyQuanAn\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1\QuanLyQuanAn\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1\QuanLyQuanAn\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1\QuanLyQuanAn\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1\QuanLyQuanAn\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1\QuanLyQuanAn\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1\QuanLyQuanAn\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1\QuanLyQuanAn\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1\QuanLyQuanAn\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1\QuanLyQuanAn\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1\QuanLyQuanAn\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1\QuanLyQuanAn\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1\QuanLyQuanAn\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1\QuanLyQuanAn\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1\QuanLyQuanAn\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1\QuanLyQuanAn\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1\QuanLyQuanAn\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1\QuanLyQuanAn\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1\QuanLyQuanAn\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1\QuanLyQuanAn\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1\QuanLyQuanAn\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1\QuanLyQuanAn\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1\QuanLyQuanAn\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1\QuanLyQuanAn\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1\QuanLyQuanAn\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1\QuanLyQuanAn\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1\QuanLyQuanAn\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1\QuanLyQuanAn\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1\QuanLyQuanAn\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1\QuanLyQuanAn\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1\QuanLyQuanAn\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1\QuanLyQuanAn\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1\QuanLyQuanAn\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\QuanLyQuanAn1\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\QuanLyQuanAn1\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Admin.frmAdmin.resources
+C:\Users\Admin\Desktop\QuanLyQuanAn1\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmAdminAccount.resources
+C:\Users\Admin\Desktop\QuanLyQuanAn1\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmAdminRevenue.resources
+C:\Users\Admin\Desktop\QuanLyQuanAn1\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmAdminTableFood.resources
+C:\Users\Admin\Desktop\QuanLyQuanAn1\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmCategory.resources
+C:\Users\Admin\Desktop\QuanLyQuanAn1\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmAdminStaff.resources
+C:\Users\Admin\Desktop\QuanLyQuanAn1\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Admin.frmRevenueReport.resources
+C:\Users\Admin\Desktop\QuanLyQuanAn1\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmAttendanceList.resources
+C:\Users\Admin\Desktop\QuanLyQuanAn1\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmAddWareHouse.resources
+C:\Users\Admin\Desktop\QuanLyQuanAn1\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmAdminFood.resources
+C:\Users\Admin\Desktop\QuanLyQuanAn1\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmLogin.resources
+C:\Users\Admin\Desktop\QuanLyQuanAn1\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmInfomation.resources
+C:\Users\Admin\Desktop\QuanLyQuanAn1\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmMain.resources
+C:\Users\Admin\Desktop\QuanLyQuanAn1\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmAccount.resources
+C:\Users\Admin\Desktop\QuanLyQuanAn1\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmTableManager.resources
+C:\Users\Admin\Desktop\QuanLyQuanAn1\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmWareHouse.resources
+C:\Users\Admin\Desktop\QuanLyQuanAn1\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmManagerFood.resources
+C:\Users\Admin\Desktop\QuanLyQuanAn1\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.msg.resources
+C:\Users\Admin\Desktop\QuanLyQuanAn1\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Properties.Resources.resources
+C:\Users\Admin\Desktop\QuanLyQuanAn1\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\QuanLyQuanAn1\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\QuanLyQuanAn1\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.CopyComplete
+C:\Users\Admin\Desktop\QuanLyQuanAn1\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.exe
+C:\Users\Admin\Desktop\QuanLyQuanAn1\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.pdb
+C:\Users\Admin\Desktop\QuanLyQuanAn1 - Copy (2)\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.exe.config
+C:\Users\Admin\Desktop\QuanLyQuanAn1 - Copy (2)\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.exe
+C:\Users\Admin\Desktop\QuanLyQuanAn1 - Copy (2)\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.pdb
+C:\Users\Admin\Desktop\QuanLyQuanAn1 - Copy (2)\QuanLyQuanAn\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1 - Copy (2)\QuanLyQuanAn\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1 - Copy (2)\QuanLyQuanAn\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1 - Copy (2)\QuanLyQuanAn\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1 - Copy (2)\QuanLyQuanAn\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1 - Copy (2)\QuanLyQuanAn\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1 - Copy (2)\QuanLyQuanAn\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1 - Copy (2)\QuanLyQuanAn\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1 - Copy (2)\QuanLyQuanAn\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1 - Copy (2)\QuanLyQuanAn\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1 - Copy (2)\QuanLyQuanAn\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1 - Copy (2)\QuanLyQuanAn\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1 - Copy (2)\QuanLyQuanAn\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1 - Copy (2)\QuanLyQuanAn\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1 - Copy (2)\QuanLyQuanAn\bin\Debug\EnvDTE.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1 - Copy (2)\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1 - Copy (2)\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1 - Copy (2)\QuanLyQuanAn\bin\Debug\stdole.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1 - Copy (2)\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1 - Copy (2)\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1 - Copy (2)\QuanLyQuanAn\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1 - Copy (2)\QuanLyQuanAn\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1 - Copy (2)\QuanLyQuanAn\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\Admin\Desktop\QuanLyQuanAn1 - Copy (2)\QuanLyQuanAn\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\QuanLyQuanAn1 - Copy (2)\QuanLyQuanAn\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\QuanLyQuanAn1 - Copy (2)\QuanLyQuanAn\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1 - Copy (2)\QuanLyQuanAn\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1 - Copy (2)\QuanLyQuanAn\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1 - Copy (2)\QuanLyQuanAn\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1 - Copy (2)\QuanLyQuanAn\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1 - Copy (2)\QuanLyQuanAn\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1 - Copy (2)\QuanLyQuanAn\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1 - Copy (2)\QuanLyQuanAn\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1 - Copy (2)\QuanLyQuanAn\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1 - Copy (2)\QuanLyQuanAn\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1 - Copy (2)\QuanLyQuanAn\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1 - Copy (2)\QuanLyQuanAn\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1 - Copy (2)\QuanLyQuanAn\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1 - Copy (2)\QuanLyQuanAn\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1 - Copy (2)\QuanLyQuanAn\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1 - Copy (2)\QuanLyQuanAn\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1 - Copy (2)\QuanLyQuanAn\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1 - Copy (2)\QuanLyQuanAn\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1 - Copy (2)\QuanLyQuanAn\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1 - Copy (2)\QuanLyQuanAn\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1 - Copy (2)\QuanLyQuanAn\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1 - Copy (2)\QuanLyQuanAn\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1 - Copy (2)\QuanLyQuanAn\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1 - Copy (2)\QuanLyQuanAn\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1 - Copy (2)\QuanLyQuanAn\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1 - Copy (2)\QuanLyQuanAn\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1 - Copy (2)\QuanLyQuanAn\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1 - Copy (2)\QuanLyQuanAn\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1 - Copy (2)\QuanLyQuanAn\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1 - Copy (2)\QuanLyQuanAn\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1 - Copy (2)\QuanLyQuanAn\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1 - Copy (2)\QuanLyQuanAn\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1 - Copy (2)\QuanLyQuanAn\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1 - Copy (2)\QuanLyQuanAn\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1 - Copy (2)\QuanLyQuanAn\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1 - Copy (2)\QuanLyQuanAn\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1 - Copy (2)\QuanLyQuanAn\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1 - Copy (2)\QuanLyQuanAn\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1 - Copy (2)\QuanLyQuanAn\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1 - Copy (2)\QuanLyQuanAn\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1 - Copy (2)\QuanLyQuanAn\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1 - Copy (2)\QuanLyQuanAn\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1 - Copy (2)\QuanLyQuanAn\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1 - Copy (2)\QuanLyQuanAn\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1 - Copy (2)\QuanLyQuanAn\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1 - Copy (2)\QuanLyQuanAn\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1 - Copy (2)\QuanLyQuanAn\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1 - Copy (2)\QuanLyQuanAn\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1 - Copy (2)\QuanLyQuanAn\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1 - Copy (2)\QuanLyQuanAn\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1 - Copy (2)\QuanLyQuanAn\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Admin\Desktop\QuanLyQuanAn1 - Copy (2)\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\QuanLyQuanAn1 - Copy (2)\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\QuanLyQuanAn1 - Copy (2)\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Admin.frmAdmin.resources
+C:\Users\Admin\Desktop\QuanLyQuanAn1 - Copy (2)\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmAdminAccount.resources
+C:\Users\Admin\Desktop\QuanLyQuanAn1 - Copy (2)\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmAdminRevenue.resources
+C:\Users\Admin\Desktop\QuanLyQuanAn1 - Copy (2)\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmAdminTableFood.resources
+C:\Users\Admin\Desktop\QuanLyQuanAn1 - Copy (2)\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmCategory.resources
+C:\Users\Admin\Desktop\QuanLyQuanAn1 - Copy (2)\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmAdminStaff.resources
+C:\Users\Admin\Desktop\QuanLyQuanAn1 - Copy (2)\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Admin.frmRevenueReport.resources
+C:\Users\Admin\Desktop\QuanLyQuanAn1 - Copy (2)\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmAttendanceList.resources
+C:\Users\Admin\Desktop\QuanLyQuanAn1 - Copy (2)\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmAddWareHouse.resources
+C:\Users\Admin\Desktop\QuanLyQuanAn1 - Copy (2)\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmAdminFood.resources
+C:\Users\Admin\Desktop\QuanLyQuanAn1 - Copy (2)\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmLogin.resources
+C:\Users\Admin\Desktop\QuanLyQuanAn1 - Copy (2)\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmInfomation.resources
+C:\Users\Admin\Desktop\QuanLyQuanAn1 - Copy (2)\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmMain.resources
+C:\Users\Admin\Desktop\QuanLyQuanAn1 - Copy (2)\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmAccount.resources
+C:\Users\Admin\Desktop\QuanLyQuanAn1 - Copy (2)\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmTableManager.resources
+C:\Users\Admin\Desktop\QuanLyQuanAn1 - Copy (2)\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmWareHouse.resources
+C:\Users\Admin\Desktop\QuanLyQuanAn1 - Copy (2)\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmManagerFood.resources
+C:\Users\Admin\Desktop\QuanLyQuanAn1 - Copy (2)\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.msg.resources
+C:\Users\Admin\Desktop\QuanLyQuanAn1 - Copy (2)\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Properties.Resources.resources
+C:\Users\Admin\Desktop\QuanLyQuanAn1 - Copy (2)\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\QuanLyQuanAn1 - Copy (2)\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\QuanLyQuanAn1 - Copy (2)\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.CopyComplete
+C:\Users\Admin\Desktop\QuanLyQuanAn1 - Copy (2)\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.exe
+C:\Users\Admin\Desktop\QuanLyQuanAn1 - Copy (2)\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.pdb
+C:\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.exe.config
+C:\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.exe
+C:\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.pdb
+C:\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\EntityFramework.dll
+C:\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\EntityFramework.SqlServer.dll
+C:\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\FontAwesome.Sharp.dll
+C:\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\EnvDTE.dll
+C:\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\stdole.dll
+C:\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\EntityFramework.xml
+C:\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\EntityFramework.SqlServer.xml
+C:\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.AssemblyReference.cache
+C:\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.SuggestedBindingRedirects.cache
+C:\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Admin.frmAdmin.resources
+C:\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmAdminAccount.resources
+C:\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmAdminRevenue.resources
+C:\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmAdminTableFood.resources
+C:\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmCategory.resources
+C:\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmAdminStaff.resources
+C:\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Admin.frmRevenueReport.resources
+C:\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmAttendanceList.resources
+C:\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmAddWareHouse.resources
+C:\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmAdminFood.resources
+C:\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmLogin.resources
+C:\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmInfomation.resources
+C:\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmMain.resources
+C:\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmAccount.resources
+C:\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmTableManager.resources
+C:\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmWareHouse.resources
+C:\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmManagerFood.resources
+C:\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.msg.resources
+C:\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Properties.Resources.resources
+C:\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.GenerateResource.cache
+C:\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.CoreCompileInputs.cache
+C:\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.CopyComplete
+C:\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.exe
+C:\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.pdb
+C:\HocTap\DACS\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.exe.config
+C:\HocTap\DACS\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.exe
+C:\HocTap\DACS\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.pdb
+C:\HocTap\DACS\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\EntityFramework.dll
+C:\HocTap\DACS\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\EntityFramework.SqlServer.dll
+C:\HocTap\DACS\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\FontAwesome.Sharp.dll
+C:\HocTap\DACS\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\HocTap\DACS\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\HocTap\DACS\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\HocTap\DACS\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\HocTap\DACS\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\HocTap\DACS\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\HocTap\DACS\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\HocTap\DACS\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\HocTap\DACS\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\HocTap\DACS\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\HocTap\DACS\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\HocTap\DACS\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\EnvDTE.dll
+C:\HocTap\DACS\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\stdole.dll
+C:\HocTap\DACS\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\EntityFramework.xml
+C:\HocTap\DACS\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\EntityFramework.SqlServer.xml
+C:\HocTap\DACS\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\HocTap\DACS\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\HocTap\DACS\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\HocTap\DACS\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\HocTap\DACS\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\HocTap\DACS\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\HocTap\DACS\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\HocTap\DACS\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\HocTap\DACS\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\HocTap\DACS\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\HocTap\DACS\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\HocTap\DACS\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\HocTap\DACS\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\HocTap\DACS\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\HocTap\DACS\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\HocTap\DACS\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\HocTap\DACS\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\HocTap\DACS\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\HocTap\DACS\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\HocTap\DACS\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\HocTap\DACS\QuanLyQuanAn\QuanLyQuanAn\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\HocTap\DACS\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.AssemblyReference.cache
+C:\HocTap\DACS\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.SuggestedBindingRedirects.cache
+C:\HocTap\DACS\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Admin.frmAdmin.resources
+C:\HocTap\DACS\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmAdminAccount.resources
+C:\HocTap\DACS\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmAdminRevenue.resources
+C:\HocTap\DACS\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmAdminTableFood.resources
+C:\HocTap\DACS\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmCategory.resources
+C:\HocTap\DACS\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmAdminStaff.resources
+C:\HocTap\DACS\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Admin.frmRevenueReport.resources
+C:\HocTap\DACS\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmAttendanceList.resources
+C:\HocTap\DACS\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmAddWareHouse.resources
+C:\HocTap\DACS\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmAdminFood.resources
+C:\HocTap\DACS\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmLogin.resources
+C:\HocTap\DACS\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmInfomation.resources
+C:\HocTap\DACS\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmMain.resources
+C:\HocTap\DACS\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmAccount.resources
+C:\HocTap\DACS\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmTableManager.resources
+C:\HocTap\DACS\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmWareHouse.resources
+C:\HocTap\DACS\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.frmManagerFood.resources
+C:\HocTap\DACS\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.msg.resources
+C:\HocTap\DACS\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Properties.Resources.resources
+C:\HocTap\DACS\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.GenerateResource.cache
+C:\HocTap\DACS\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.CoreCompileInputs.cache
+C:\HocTap\DACS\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.CopyComplete
+C:\HocTap\DACS\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.exe
+C:\HocTap\DACS\QuanLyQuanAn\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.pdb

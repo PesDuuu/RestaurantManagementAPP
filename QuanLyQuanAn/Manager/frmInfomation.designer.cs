@@ -47,16 +47,16 @@ namespace QuanLyQuanAn
             this.lblSoftware.Location = new System.Drawing.Point(364, 373);
             this.lblSoftware.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lblSoftware.Name = "lblSoftware";
-            this.lblSoftware.Size = new System.Drawing.Size(375, 25);
+            this.lblSoftware.Size = new System.Drawing.Size(481, 25);
             this.lblSoftware.TabIndex = 0;
-            this.lblSoftware.Text = "Software: Phần mềm quản lý nhà hàng A";
+            this.lblSoftware.Text = "Software: Phần mềm quản lý nhà hàng - RS Software";
             // 
             // lblVersion
             // 
             this.lblVersion.AutoSize = true;
             this.lblVersion.BackColor = System.Drawing.Color.White;
             this.lblVersion.Font = new System.Drawing.Font("Cambria", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblVersion.Location = new System.Drawing.Point(364, 412);
+            this.lblVersion.Location = new System.Drawing.Point(364, 398);
             this.lblVersion.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lblVersion.Name = "lblVersion";
             this.lblVersion.Size = new System.Drawing.Size(136, 25);
@@ -68,7 +68,7 @@ namespace QuanLyQuanAn
             this.lblEmail.AutoSize = true;
             this.lblEmail.BackColor = System.Drawing.Color.White;
             this.lblEmail.Font = new System.Drawing.Font("Cambria", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblEmail.Location = new System.Drawing.Point(364, 446);
+            this.lblEmail.Location = new System.Drawing.Point(364, 423);
             this.lblEmail.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lblEmail.Name = "lblEmail";
             this.lblEmail.Size = new System.Drawing.Size(330, 25);
@@ -84,21 +84,21 @@ namespace QuanLyQuanAn
             this.label4.Location = new System.Drawing.Point(539, 603);
             this.label4.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(533, 19);
+            this.label4.Size = new System.Drawing.Size(378, 19);
             this.label4.TabIndex = 3;
-            this.label4.Text = "Bản quyền thuộc về nhóm 6, đồ án môn lập trình trên môi trường Windows";
+            this.label4.Text = "Bản quyền thuộc về nhóm RS Software, đồ án cơ sở";
             // 
             // lblCopyRight
             // 
             this.lblCopyRight.AutoSize = true;
             this.lblCopyRight.BackColor = System.Drawing.Color.White;
             this.lblCopyRight.Font = new System.Drawing.Font("Cambria", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblCopyRight.Location = new System.Drawing.Point(409, 471);
+            this.lblCopyRight.Location = new System.Drawing.Point(364, 448);
             this.lblCopyRight.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lblCopyRight.Name = "lblCopyRight";
-            this.lblCopyRight.Size = new System.Drawing.Size(184, 25);
+            this.lblCopyRight.Size = new System.Drawing.Size(220, 25);
             this.lblCopyRight.TabIndex = 3;
-            this.lblCopyRight.Text = "Copyright: Nhóm 6";
+            this.lblCopyRight.Text = "Copyright: RS Software";
             // 
             // pbLogo
             // 

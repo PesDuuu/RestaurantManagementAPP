@@ -30,7 +30,6 @@
         {
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle2 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmAdminRevenue));
             System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea1 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
             System.Windows.Forms.DataVisualization.Charting.Legend legend1 = new System.Windows.Forms.DataVisualization.Charting.Legend();
             System.Windows.Forms.DataVisualization.Charting.Series series1 = new System.Windows.Forms.DataVisualization.Charting.Series();
@@ -44,7 +43,6 @@
             this.Column5 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Column6 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.pnBillStatistical = new System.Windows.Forms.Panel();
-            this.btnPayment = new System.Windows.Forms.Button();
             this.lblBillStatistical = new System.Windows.Forms.Label();
             this.lblToDate = new System.Windows.Forms.Label();
             this.lblFromDate = new System.Windows.Forms.Label();
@@ -148,7 +146,6 @@
             // pnBillStatistical
             // 
             this.pnBillStatistical.BackColor = System.Drawing.Color.DimGray;
-            this.pnBillStatistical.Controls.Add(this.btnPayment);
             this.pnBillStatistical.Controls.Add(this.lblBillStatistical);
             this.pnBillStatistical.Controls.Add(this.lblToDate);
             this.pnBillStatistical.Controls.Add(this.lblFromDate);
@@ -163,21 +160,6 @@
             this.pnBillStatistical.Name = "pnBillStatistical";
             this.pnBillStatistical.Size = new System.Drawing.Size(283, 616);
             this.pnBillStatistical.TabIndex = 10;
-            // 
-            // btnPayment
-            // 
-            this.btnPayment.Font = new System.Drawing.Font("Cambria", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnPayment.Image = ((System.Drawing.Image)(resources.GetObject("btnPayment.Image")));
-            this.btnPayment.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnPayment.Location = new System.Drawing.Point(91, 445);
-            this.btnPayment.Margin = new System.Windows.Forms.Padding(2);
-            this.btnPayment.Name = "btnPayment";
-            this.btnPayment.Size = new System.Drawing.Size(132, 41);
-            this.btnPayment.TabIndex = 24;
-            this.btnPayment.Text = "Xuất Phiếu";
-            this.btnPayment.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
-            this.btnPayment.UseVisualStyleBackColor = true;
-            this.btnPayment.Click += new System.EventHandler(this.btnPayment_Click);
             // 
             // lblBillStatistical
             // 
@@ -468,6 +450,5 @@
         private System.Windows.Forms.DataGridViewTextBoxColumn Column4;
         private System.Windows.Forms.DataGridViewTextBoxColumn Column5;
         private System.Windows.Forms.DataGridViewTextBoxColumn Column6;
-        private System.Windows.Forms.Button btnPayment;
     }
 }

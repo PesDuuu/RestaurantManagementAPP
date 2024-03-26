@@ -60,8 +60,8 @@ namespace QuanLyQuanAn
             this.pnlShowListTable = new System.Windows.Forms.Panel();
             this.flpTable = new System.Windows.Forms.FlowLayoutPanel();
             this.pnlTableListName = new System.Windows.Forms.Panel();
-            this.pbReloadTable = new FontAwesome.Sharp.IconPictureBox();
             this.lbTableFoodList = new System.Windows.Forms.Label();
+            this.pbReloadTable = new FontAwesome.Sharp.IconPictureBox();
             this.pddHoaDon = new System.Windows.Forms.PrintPreviewDialog();
             this.pdHoaDon = new System.Drawing.Printing.PrintDocument();
             ((System.ComponentModel.ISupportInitialize)(this.pbFood)).BeginInit();
@@ -401,6 +401,18 @@ namespace QuanLyQuanAn
             this.pnlTableListName.Size = new System.Drawing.Size(481, 57);
             this.pnlTableListName.TabIndex = 4;
             // 
+            // lbTableFoodList
+            // 
+            this.lbTableFoodList.BackColor = System.Drawing.Color.DimGray;
+            this.lbTableFoodList.Font = new System.Drawing.Font("Cambria", 21.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lbTableFoodList.ForeColor = System.Drawing.Color.White;
+            this.lbTableFoodList.Location = new System.Drawing.Point(3, 3);
+            this.lbTableFoodList.Name = "lbTableFoodList";
+            this.lbTableFoodList.Size = new System.Drawing.Size(478, 54);
+            this.lbTableFoodList.TabIndex = 3;
+            this.lbTableFoodList.Text = "DANH SÁCH BÀN ĂN";
+            this.lbTableFoodList.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            // 
             // pbReloadTable
             // 
             this.pbReloadTable.BackColor = System.Drawing.Color.DimGray;
@@ -413,18 +425,6 @@ namespace QuanLyQuanAn
             this.pbReloadTable.TabIndex = 5;
             this.pbReloadTable.TabStop = false;
             this.pbReloadTable.Click += new System.EventHandler(this.pbReloadTable_Click);
-            // 
-            // lbTableFoodList
-            // 
-            this.lbTableFoodList.BackColor = System.Drawing.Color.DimGray;
-            this.lbTableFoodList.Font = new System.Drawing.Font("Cambria", 21.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lbTableFoodList.ForeColor = System.Drawing.Color.White;
-            this.lbTableFoodList.Location = new System.Drawing.Point(3, 3);
-            this.lbTableFoodList.Name = "lbTableFoodList";
-            this.lbTableFoodList.Size = new System.Drawing.Size(478, 54);
-            this.lbTableFoodList.TabIndex = 3;
-            this.lbTableFoodList.Text = "DANH SÁCH BÀN ĂN";
-            this.lbTableFoodList.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // pddHoaDon
             // 

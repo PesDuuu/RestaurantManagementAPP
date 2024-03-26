@@ -226,10 +226,10 @@ namespace QuanLyQuanAn
                     try
                     {
                         Account account = (from s in rm.Accounts where s.userName == username select s).FirstOrDefault();
-                        account.passWord = "@abc123";
+                        account.passWord = "1";
                         if (rm.SaveChanges() > 0)
                         {
-                            msg.Show("Đặt lại mật khẩu thành công.\nMật khẩu mặc định của bạn là: @abc123", "THÔNG BÁO", msg.Buttons.Yes, msg.Icon.Success);
+                            msg.Show("Đặt lại mật khẩu thành công.\nMật khẩu mặc định của bạn là: 1", "THÔNG BÁO", msg.Buttons.Yes, msg.Icon.Success);
                         }
                     }
                     catch

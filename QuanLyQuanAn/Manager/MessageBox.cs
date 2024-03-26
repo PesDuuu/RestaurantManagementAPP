@@ -140,7 +140,7 @@ namespace QuanLyQuanAn
                 case msg.Buttons.No:
                     _msgBox.InitNoButtons();
                     break;
-                    // m nên để default là Yes, để chỉ cần truyền mỗi cái text vào thôi thì nó sẽ hiện mỗi button Xác nhận
+                  
             } 
             foreach (Button btn in _msgBox._buttonCollection)
             {
